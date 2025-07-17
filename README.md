@@ -27,7 +27,8 @@ This project analyzes Superstore sales and product data using Excel (Power Query
 
 - Microsoft Excel (Power Query, Power Pivot, FILTER, INDEX-MATCH, IF)
 - Power BI (in progress)
-- Kaggle (Superstore dataset)
+- Kaggle [(Superstore dataset)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
+
 
 ---
 
