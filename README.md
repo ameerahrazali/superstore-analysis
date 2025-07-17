@@ -54,6 +54,27 @@ This project analyzes Superstore sales and product data using Excel (Power Query
 
 ---
 
+## Dashboard Preview
+
+### 🧾 Sales Analysis Dashboard
+![Sales Dashboard](screenshots/superstore_sales_dashboard.png)
+
+- Filter by Region, Segment, and Discount Pressure Tier.
+- Dynamic KPIs for order count, sales, quantity, profit, and risk indicators.
+- Interactive tier-based performance breakdown.
+
+### 📦 Product Analysis Dashboard
+![Product Dashboard](screenshots/superstore_product_dashboard.png)
+
+- Top 10 products ranked by profitability score.
+- Tier classification and flag indicators for low volume or negative margin products.
+- KPI tier distribution visual.
+
+🔗 **View Excel Dashboard (hosted on OneDrive):**  
+[Open in Excel Online](https://xuliujun1-my.sharepoint.com/:x:/g/personal/75900_office365proplus_co/EbdAc9CYcsNHpPsabAe67dwBFTmX9lyyo9N9GB7XeVnpHA?e=WygbN4)
+
+---
+
 ## Derived Metrics
 
 - `Profit Margin` = `Profit / Sales`
@@ -63,6 +84,23 @@ This project analyzes Superstore sales and product data using Excel (Power Query
 - `Profitability Score` = weighted product performance metric
 - `KPI Tier` = product classification (e.g., Tier 1 - High Profitability)
 - `Reason for Exclusion` = logic-based explanation for product ranking filter
+
+---
+
+## Dashboard Purpose Disclaimer
+
+The current Excel dashboard serves as a **foundational layout** to explore and understand the structure of the Superstore data. It is intentionally kept simple and focused on:
+
+- Validating the data after cleansing
+- Identifying high-level trends and performance gaps
+- Deriving key metrics such as profit margin, discount pressure, and product profitability
+
+This dashboard is **not meant to be a polished final product**, but rather a working prototype to:
+- Support metric development
+- Design future analytical logic
+- Guide the transition into a full Power BI model
+
+Future development will focus on enhancing interactivity, adding deeper insights, and scaling the analysis into a structured star-schema for enterprise-style reporting.
 
 ---
 
