@@ -56,21 +56,21 @@ This project analyzes Superstore sales and product data using Excel (Power Query
 
 ## Dashboard Preview
 
-### 🧾 Sales Analysis Dashboard
+### Sales Analysis Dashboard
 ![Sales Dashboard](screenshots/superstore_sales_dashboard.png)
 
 - Filter by Region, Segment, and Discount Pressure Tier.
 - Dynamic KPIs for order count, sales, quantity, profit, and risk indicators.
 - Interactive tier-based performance breakdown.
 
-### 📦 Product Analysis Dashboard
+### Product Analysis Dashboard
 ![Product Dashboard](screenshots/superstore_product_dashboard.png)
 
 - Top 10 products ranked by profitability score.
 - Tier classification and flag indicators for low volume or negative margin products.
 - KPI tier distribution visual.
 
-🔗 **View Excel Dashboard (hosted on OneDrive):**  
+**View Excel Dashboard (hosted on OneDrive):**  
 [Open in Excel Online](https://xuliujun1-my.sharepoint.com/:x:/g/personal/75900_office365proplus_co/EbdAc9CYcsNHpPsabAe67dwBFTmX9lyyo9N9GB7XeVnpHA?e=WygbN4)
 
 ---
